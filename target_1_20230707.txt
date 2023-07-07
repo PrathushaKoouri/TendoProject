@@ -1,0 +1,143 @@
+patientid|Sex|Age|primary_care_provider|medication_simple_generic_name|dose_unit|admit_diagnosis|avg_minimum_dose
+111013238188|Female|30|1659717221.0|misoprostol|mcg|O99.344|25.0
+111013238188|Female|30|1659717221.0|terbutaline sulfate|mg|O99.344|0.25
+111013238188|Female|30|1659717221.0|fentanyl/bupivacaine/NS/PF|NaN|O99.344|
+111013238188|Female|30|1659717221.0|docusate sodium|mg|O99.344|100.0
+111013238188|Female|30|1659717221.0|prenatal vit no.130/iron/folic|tablet|O99.344|1.0
+111013238188|Female|30|1659717221.0|simethicone|mg|O99.344|80.0
+111013238188|Female|30|1659717221.0|acetaminophen|mg|O99.344|1000.0
+111013238188|Female|30|1659717221.0|glycerin/witch hazel|Application|O99.344|1.0
+111013238188|Female|30|1659717221.0|diphenhydramine HCl|mg|O99.344|25.0
+111013238188|Female|30|1659717221.0|modified lanolin|Application|O99.344|1.0
+111013238188|Female|30|1659717221.0|oxytocin/0.9 % sodium chloride|milli-units/min|O99.344|31.0
+111013238188|Female|30|1659717221.0|ibuprofen|mg|O99.344|600.0
+111013238188|Female|30|1659717221.0|ondansetron HCl/PF|mg|O99.344|4.0
+111013238188|Female|30|1659717221.0|bupivacaine HCl/PF|NaN|O99.344|
+111013238188|Female|30|1659717221.0|fentanyl citrate/PF|NaN|O99.344|
+111013238188|Female|30|1659717221.0|phenylephrine HCl in 0.9% NaCl|NaN|O99.344|
+111013238188|Female|30|1659717221.0|magnesium hydroxide|mL|O99.344|30.0
+111013238188|Female|30|1659717221.0|Ringer's solution,lactated|NaN|O99.344|
+111013238188|Female|30|1659717221.0|benzocaine|spray|O99.344|1.0
+111013238188|Female|30|1659717221.0|NaN|mg|O99.344|500.0
+111013238188|Female|30|1659717221.0|lactated ringers IV|mL|O99.344|250.0
+111013238188|Female|30|1659717221.0|bisacodyl|mg|O99.344|10.0
+111013238188|Female|30|1659717221.0|lidocaine HCl/epinephrine/PF|NaN|O99.344|
+111013238188|Female|30|1659717221.0|lidocaine HCl/PF|mL|O99.344|0.25
+111013235506|Female|31|1245677319.0|simethicone|mg|NaN|80.0
+111013235506|Female|31|1245677319.0|magnesium hydroxide|mL|NaN|30.0
+111013235506|Female|31|1245677319.0|cefazolin sodium/dextrose,iso|mg|NaN|2000.0
+111013235506|Female|31|1245677319.0|glycerin/witch hazel|Application|NaN|1.0
+111013235506|Female|31|1245677319.0|diphenhydramine HCl|mg|NaN|25.0
+111013235506|Female|31|1245677319.0|acetaminophen|mg|NaN|1000.0
+111013235506|Female|31|1245677319.0|NaN|mg|NaN|500.0
+111013235506|Female|31|1245677319.0|Ringer's solution,lactated|NaN|NaN|
+111013235506|Female|31|1245677319.0|benzocaine|spray|NaN|1.0
+111013235506|Female|31|1245677319.0|terbutaline sulfate|mg|NaN|0.25
+111013235506|Female|31|1245677319.0|docusate sodium|mg|NaN|100.0
+111013235506|Female|31|1245677319.0|bisacodyl|mg|NaN|10.0
+111013235506|Female|31|1245677319.0|lidocaine HCl/epinephrine/PF|NaN|NaN|
+111013235506|Female|31|1245677319.0|naloxone HCl|mg|NaN|0.2
+111013235506|Female|31|1245677319.0|modified lanolin|Application|NaN|1.0
+111013235506|Female|31|1245677319.0|fentanyl citrate/PF|NaN|NaN|
+111013235506|Female|31|1245677319.0|bupivacaine HCl/PF|NaN|NaN|
+111013235506|Female|31|1245677319.0|oxytocin/0.9 % sodium chloride|milli-units/min|NaN|31.0
+111013235506|Female|31|1245677319.0|lactated ringers IV|mL|NaN|375.0
+111013235506|Female|31|1245677319.0|ondansetron HCl/PF|mg|NaN|4.0
+111013235506|Female|31|1245677319.0|prenatal vit no.130/iron/folic|tablet|NaN|1.0
+111013235506|Female|31|1245677319.0|fentanyl/bupivacaine/NS/PF|NaN|NaN|
+111013235506|Female|31|1245677319.0|ibuprofen|mg|NaN|600.0
+111013225659|Male|27||epinephrine|mg|NaN|0.3
+111013225659|Male|27||famotidine/PF|mg|NaN|20.0
+111013225659|Male|27||polyethylene glycol 3350|g|NaN|17.0
+111013225659|Male|27||prednisone|mg|NaN|220.0
+111013225659|Male|27||sennosides|tablet|NaN|2.0
+111013225659|Male|27||hydrocortisone sodium succ/PF|mg|NaN|100.0
+111013225659|Male|27||ondansetron HCl/PF|mg|NaN|8.0
+111013225659|Male|27||prochlorperazine edisylate|mg|NaN|10.0
+111013225659|Male|27||sennosides/docusate sodium|tablet|NaN|1.0
+111013225659|Male|27||potassium chloride|mEq|NaN|40.0
+111013225659|Male|27||pantoprazole sodium|mg|NaN|20.0
+111013225659|Male|27||acetaminophen|mg|NaN|650.0
+111013225659|Male|27||diphenhydramine HCl|mg|NaN|50.0
+111013225659|Male|27||lidocaine HCl|NaN|NaN|
+111013225659|Male|27||meperidine HCl/PF|mg|NaN|25.0
+111013225659|Male|27||enoxaparin sodium|mg|NaN|50.0
+111013225659|Male|27||methylprednisolone sod succ/PF|mg|NaN|125.0
+111013225659|Male|27||hydrocodone/acetaminophen|tablet|NaN|1.0
+111013225659|Male|27||sulfamethoxazole/trimethoprim|tablet|NaN|1.0
+111013225659|Male|27||0.9 % sodium chloride|NaN|NaN|
+111013225659|Male|27||ondansetron|mg|NaN|8.0
+111013225659|Male|27||furosemide|mg|NaN|20.0
+111013225659|Male|27||lorazepam|mg|NaN|0.6666666666666666
+111013225659|Male|27||heparin sodium,porcine|NaN|NaN|
+111013225659|Male|27||allopurinol|mg|NaN|300.0
+111013225659|Male|27||sodium chloride 0.9 % IV|mL|NaN|1000.0
+111013225659|Male|27||apixaban|mg|NaN|5.0
+111013225659|Male|27||lidocaine HCl|mL|NaN|10.0
+111013225659|Male|27||prochlorperazine maleate|mg|NaN|10.0
+111013213095|Female|25||epinephrine|NaN|NaN|
+111013213095|Female|25||prenatal vit no.130/iron/folic|tablet|NaN|1.0
+111013213095|Female|25||metoclopramide HCl|mg|NaN|10.0
+111013213095|Female|25||fentanyl citrate/PF|NaN|NaN|
+111013213095|Female|25||enoxaparin sodium|mg|NaN|40.0
+111013213095|Female|25||lactated ringers IV|mL|NaN|624.5
+111013213095|Female|25||dexamethasone sodium phosphate|NaN|NaN|
+111013213095|Female|25||simethicone|mg|NaN|80.0
+111013213095|Female|25||ketorolac tromethamine|NaN|NaN|
+111013213095|Female|25||bisacodyl|mg|NaN|10.0
+111013213095|Female|25||acetaminophen|mg|NaN|1000.0
+111013213095|Female|25||phenylephrine HCl in 0.9% NaCl|NaN|NaN|
+111013213095|Female|25||ondansetron HCl/PF|NaN|NaN|
+111013213095|Female|25||oxytocin/0.9 % sodium chloride|milli-units/min|NaN|60.0
+111013213095|Female|25||prochlorperazine edisylate|mg|NaN|10.0
+111013213095|Female|25||modified lanolin|Application|NaN|1.0
+111013213095|Female|25||lidocaine HCl/PF|NaN|NaN|
+111013213095|Female|25||oxycodone HCl|mg|NaN|5.0
+111013213095|Female|25||ephedrine sulfate/0.9% NaCl/PF|NaN|NaN|
+111013213095|Female|25||misoprostol|NaN|NaN|
+111013213095|Female|25||prochlorperazine edisylate|NaN|NaN|
+111013213095|Female|25||famotidine/PF|NaN|NaN|
+111013213095|Female|25||magnesium hydroxide|mL|NaN|30.0
+111013213095|Female|25||ketorolac tromethamine|mg|NaN|30.0
+111013213095|Female|25||diphenhydramine HCl|mg|NaN|25.0
+111013213095|Female|25||Ringer's solution,lactated|NaN|NaN|
+111013213095|Female|25||ondansetron HCl/PF|mg|NaN|4.0
+111013213095|Female|25||propofol|NaN|NaN|
+111013213095|Female|25||oxytocin/0.9 % sodium chloride|NaN|NaN|
+111013213095|Female|25||cefazolin sodium/dextrose,iso|mg|NaN|2000.0
+111013213095|Female|25||docusate sodium|mg|NaN|100.0
+111013213095|Female|25||ibuprofen|mg|NaN|600.0
+111013213095|Female|25||dexamethasone sodium phosphate|mg|NaN|4.0
+111013208632|Male|36|1619468428.0|lactated ringers IV|mL|NaN|999.5
+111013208632|Male|36|1619468428.0|iohexol|mL|NaN|100.0
+111013208632|Male|36|1619468428.0|ondansetron HCl/PF|mg|NaN|4.0
+111013208632|Male|36|1619468428.0|gadobutrol|mL|NaN|7.4
+111013208632|Male|36|1619468428.0|barium sulfate|mL|NaN|450.0
+111013208632|Male|36|1619468428.0|NaN|mg|NaN|2000.0
+111013208632|Male|36|1619468428.0|sodium chloride 0.9 % IV|mL|NaN|1000.0
+111013208632|Male|36|1619468428.0|Ringer's solution,lactated|mL/hr|NaN|100.0
+111013208632|Male|36|1619468428.0|acetaminophen|mg|NaN|650.0
+111013208632|Male|36|1619468428.0|ondansetron|mg|NaN|4.0
+111013208632|Male|36|1619468428.0|cefazolin sodium/dextrose,iso|mg|NaN|2000.0
+111013208632|Male|36|1619468428.0|ibuprofen|mg|NaN|600.0
+111013198531|Female|31|1700233590.0|cefazolin sodium/dextrose,iso|mg|NaN|2000.0
+111013198531|Female|31|1700233590.0|lidocaine HCl/PF|NaN|NaN|
+111013198531|Female|31|1700233590.0|diphenhydramine HCl|mg|NaN|25.0
+111013198531|Female|31|1700233590.0|fentanyl/bupivacaine/NS/PF|NaN|NaN|
+111013198531|Female|31|1700233590.0|bupivacaine HCl/PF|NaN|NaN|
+111013198531|Female|31|1700233590.0|glycerin/witch hazel|Application|NaN|1.0
+111013198531|Female|31|1700233590.0|simethicone|mg|NaN|80.0
+111013198531|Female|31|1700233590.0|benzocaine|spray|NaN|1.0
+111013198531|Female|31|1700233590.0|oxytocin/0.9 % sodium chloride|milli-units/min|NaN|2.0
+111013198531|Female|31|1700233590.0|docusate sodium|mg|NaN|100.0
+111013198531|Female|31|1700233590.0|Ringer's solution,lactated|NaN|NaN|
+111013198531|Female|31|1700233590.0|acetaminophen|mg|NaN|1000.0
+111013198531|Female|31|1700233590.0|ibuprofen|mg|NaN|600.0
+111013198531|Female|31|1700233590.0|lidocaine HCl/epinephrine/PF|NaN|NaN|
+111013198531|Female|31|1700233590.0|modified lanolin|Application|NaN|1.0
+111013198531|Female|31|1700233590.0|fentanyl citrate/PF|NaN|NaN|
+111013198531|Female|31|1700233590.0|NaN|mg|NaN|500.0
+111013198531|Female|31|1700233590.0|hydromorphone HCl|mg|NaN|1.0
+111013198531|Female|31|1700233590.0|lactated ringers IV|mL|NaN|999.0
+111013198531|Female|31|1700233590.0|misoprostol|mcg|NaN|25.0
+111013198531|Female|31|1700233590.0|ondansetron HCl/PF|mg|NaN|4.0
